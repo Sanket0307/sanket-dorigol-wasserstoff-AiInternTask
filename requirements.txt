@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+chromadb
+PyPDF2
+python-docx
+pytesseract
+Pillow
+pandas
+numpy
+python-dotenv
+sentence-transformers
+faiss-cpu
+streamlit-aggrid
+plotly
