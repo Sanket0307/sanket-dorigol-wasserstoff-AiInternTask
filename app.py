@@ -1,4 +1,11 @@
 import streamlit as st
+import sys
+try:
+    import pysqlite3
+    sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+except ImportError:
+    pass
+
 import os
 import pandas as pd
 from dotenv import load_dotenv
