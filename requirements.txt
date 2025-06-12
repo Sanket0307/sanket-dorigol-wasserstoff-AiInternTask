@@ -13,3 +13,4 @@ faiss-cpu
 streamlit-aggrid
 plotly
 opencv-python-headless
+PyMuPDF
