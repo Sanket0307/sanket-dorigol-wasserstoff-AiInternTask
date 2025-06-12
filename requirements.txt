@@ -12,3 +12,4 @@ sentence-transformers
 faiss-cpu
 streamlit-aggrid
 plotly
+opencv-python-headless
